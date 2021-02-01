@@ -1,6 +1,6 @@
 # Articles
 
-Repository contains codes used in analysis developed to written articles, the articles are written in english and portuguese.
+Repository contains codes used in analysis developed to written articles, the articles are written in english or portuguese.
 
 ## [TELEWORK ADOPTION IN TIMES OF PANDEMIC](https://github.com/fernandofsilva/Articles/blob/main/notebooks/telework_adoption_in_time_of_pandemic.ipynb)
 
